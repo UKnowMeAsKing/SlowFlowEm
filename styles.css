@@ -3,10 +3,11 @@ table{
 }
 
 table, th, td {
-  border: 5px solid black;
+  border: 1px solid black;
 }
 
-td {
-  padding: 10px;
+td, th {
+  padding: 20px;
   text-align: center;
+  color: orange;
 }
